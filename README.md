@@ -27,7 +27,7 @@ Official documentation: [http://files.maximintegrated.com/sia_bu/softdev/owapi/]
 	</dependency>
     ```
 
-* For git maven repo deploy:
+ * For git maven repo **deploy**:
     ```xml
     	mvn clean deploy
     ```
