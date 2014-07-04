@@ -89,10 +89,6 @@
             <name>Releases</name>
             <url>https://oss.sonatype.org/content/repositories/releases</url>
         </repository>
-        <repository>
-            <id>flying_mpostick</id>
-            <url>https://raw.github.com/imccoy/flying_mpostick/master/snapshots</url>
-        </repository>
     </repositories>
     
     
