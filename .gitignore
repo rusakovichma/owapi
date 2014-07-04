@@ -1,0 +1,6 @@
+target/*
+.settings/*
+nb-configuration.xml
+.springBeans
+.project
+.classpath
