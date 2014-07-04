@@ -6,8 +6,8 @@ Official documentation: [http://files.maximintegrated.com/sia_bu/softdev/owapi/]
 
 # Using
 
- Just add in your pom.xml **repository**:
-	```xml
+ * Just add in your pom.xml **repository**:
+    ```xml
     <repository>
         <id>owapi-mvn-repo</id>
         <url>https://raw.github.com/creepid/owapi/mvn-repo/</url>
@@ -25,10 +25,9 @@ Official documentation: [http://files.maximintegrated.com/sia_bu/softdev/owapi/]
 			<artifactId>owapi</artifactId>
 			<version>1.10</version>
 	</dependency>
-	```
+    ```
 
-For git maven repo deploy:
+* For git maven repo deploy:
     ```xml
     	mvn clean deploy
-	```
-
+    ```
