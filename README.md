@@ -20,14 +20,14 @@ Official documentation: [http://files.maximintegrated.com/sia_bu/softdev/owapi/]
     
     and **dependency**:
     ```xml
-    <dependency>
-	<groupId>com.dalsemi.onewire</groupId>
-	<artifactId>owapi</artifactId>
-	<version>1.10</version>
-    </dependency>
+	<dependency>
+		<groupId>com.dalsemi.onewire</groupId>
+		<artifactId>owapi</artifactId>
+		<version>1.10</version>
+	</dependency>
     ```
 
  * For git maven repo **deploy**:
     ```xml
-    mvn clean deploy
+	mvn clean deploy
     ```
